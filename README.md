@@ -1,6 +1,6 @@
 ## Plant inventory app
 
-Hugely over engineered serverless web app as a way to learn React and familiarise myself with more AWS services - and also keep track of my plants.
+Serverless web app as a way to learn React and familiarise myself with more AWS services - and also keep track of my plants.
 
 ## Inspiration
 
@@ -13,11 +13,13 @@ Using AWS Cognito via AWS Mobile for user management and S3 buckets for image up
 
 ## Install (prob not complete)
 
+```
 npm install -g awsmobile-cli
 awsmobile configure aws
 awsmobile init --yes
 awsmobile appsync configure
 awsmobile push
+```
 
 ## Change log
 
