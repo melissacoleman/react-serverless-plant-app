@@ -34,3 +34,9 @@ awsmobile push
 
 * Add to gh-pages
 * form validation
+* Add Content
+* Unsubscribe
+
+## Known issues
+
+* Insane amount of overlap between plantformadd and plantformedit :(
